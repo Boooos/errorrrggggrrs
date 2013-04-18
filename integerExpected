@@ -1,0 +1,9 @@
+mybox = (17.0, -13.0, 489.0644700903291, 566.0)
+# this 'box' is my input and it will vary... but for example
+
+xMin, yMin, xMax, yMax = mybox
+
+yValues = range(yMin, yMax, 30)
+
+
+
